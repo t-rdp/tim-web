@@ -1,6 +1,11 @@
 {
     "default_server_name": "t.rdpstudio.top",
     "brand": "天空岛",
+	"branding": {
+        "__empty": "field",
+        "authHeaderLogoUrl": "https://t.rdpstudio.top/files/00c81708-9c8c-4822-86e3-93ab02f77218",
+        "welcomeBackgroundUrl": "https://t.rdpstudio.top/files/4e9b531d-9c9a-42e4-b1da-abe2d33a83ba"
+    },
     "bug_report_endpoint_url": "mailto:hello@rdpstudio.top",
     "disable_custom_urls": true,
     "showLabsSettings": true,
